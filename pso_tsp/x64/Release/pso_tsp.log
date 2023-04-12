@@ -1,0 +1,11 @@
+﻿  pso_tsp.cpp
+C:\Users\ZhangNaida\source\repos\pso_tsp\pso_tsp\pso_tsp.cpp(66,19): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\ZhangNaida\source\repos\pso_tsp\pso_tsp\pso_tsp.cpp(88,61): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\ZhangNaida\source\repos\pso_tsp\pso_tsp\pso_tsp.cpp(88,49): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\ZhangNaida\source\repos\pso_tsp\pso_tsp\pso_tsp.cpp(88,37): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  1 of 468 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  pso_tsp.vcxproj -> C:\Users\ZhangNaida\source\repos\pso_tsp\x64\Release\pso_tsp.exe

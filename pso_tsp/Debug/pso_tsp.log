@@ -1,0 +1,12 @@
+﻿  pso_tsp.cpp
+C:\Users\ZhangNaida\source\repos\pso_tsp\pso_tsp\pso_tsp.cpp(31,57): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\ZhangNaida\source\repos\pso_tsp\pso_tsp\pso_tsp.cpp(31,45): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\ZhangNaida\source\repos\pso_tsp\pso_tsp\pso_tsp.cpp(31,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  swarm.cpp
+C:\Users\ZhangNaida\source\repos\pso_tsp\pso_tsp\swarm.cpp(55,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ZhangNaida\source\repos\pso_tsp\pso_tsp\swarm.cpp(109,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ZhangNaida\source\repos\pso_tsp\pso_tsp\swarm.cpp(116,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ZhangNaida\source\repos\pso_tsp\pso_tsp\swarm.cpp(137,9): warning C4101: “index”: 未引用的局部变量
+C:\Users\ZhangNaida\source\repos\pso_tsp\pso_tsp\swarm.cpp(138,12): warning C4101: “real”: 未引用的局部变量
+  正在生成代码...
+  pso_tsp.vcxproj -> C:\Users\ZhangNaida\source\repos\pso_tsp\Debug\pso_tsp.exe
